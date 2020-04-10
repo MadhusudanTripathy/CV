@@ -1,0 +1,30 @@
+body
+{
+    background-color:powderblue;
+}
+h1
+{
+    color: red;
+}
+h1:hover
+{
+
+    color: gold;
+}
+p
+{
+    color: #31bfbf;
+}
+hr
+{
+    border-color: white;
+    border-style:none;
+border-top-style: dotted ;
+
+border-width: 5px;
+width: 50%;
+}
+img
+{
+    width:150px;
+}
